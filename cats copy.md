@@ -22,11 +22,11 @@ table { border: 1px solid black; }
 </ul>
 
 <h4>Cool House Cats</h4>
+<img src="flynn.jpg" alt=Flynn>
+<p><em>Flynn: Happy Kitty, sleepy kitty</em></p>
+<img src="quorra.jpg" alt=Quorra>
+<p><em> Quorra: Mii-ow fit</em></p>
 
-<img src="flynn.jpg" alt=Flynn">
-	<p><em>Flynn: Happy kitty, sleepy kitty.</em></p>
-<img src="quorra.jpg" alt=Quorra">
-	<p><em> Quorra: Mii-ow fit.</em></p>
 
 <table>
 <tr>	
