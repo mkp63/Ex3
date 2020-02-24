@@ -3,7 +3,8 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Cats</title>
+	
+    
 <style>
 td, th { border: 1px solid #CCC; }
 table { border: 1px solid black; }
