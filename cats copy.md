@@ -39,7 +39,8 @@ table { border: 1px solid black; }
 	<td>$5</td>
 </tr>
 <tr>
-	<td>Catnip,Organic</td>
+    <td>Catnip</td>
+    <td>Organic</td>
 	<td>$3</td>
 </tr>
 </table>
